@@ -1,5 +1,6 @@
 package com.azbank.configurations;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;
@@ -11,6 +12,9 @@ import org.springframework.security.config.http.SessionCreationPolicy;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
+import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
+
+import com.azbank.filters.JwtRequestFilter;
 
 @Configuration
 @EnableWebSecurity
@@ -23,18 +27,23 @@ public class WebSecurityConfiguration {
 		return new BCryptPasswordEncoder();
 	}
 	
+	
+	@Autowired
+	private JwtRequestFilter requestFilter;
+	
 	@Bean
 	public SecurityFilterChain securityFilterChain(HttpSecurity httpSecurity) throws Exception{
 		return httpSecurity.csrf().disable()
 				.authorizeHttpRequests()
 				.requestMatchers("/register","/authentication").permitAll()
-				.and()
-				.authorizeHttpRequests().requestMatchers("/api/**")
-				.authenticated()
-				.and()
-				.sessionManagement()
-			    .sessionCreationPolicy(SessionCreationPolicy.STATELESS)
-			    .and().build();
+				 .and()
+	                .authorizeHttpRequests().requestMatchers("/api/**")
+	                .authenticated().and()
+	                .sessionManagement()
+	                .sessionCreationPolicy(SessionCreationPolicy.STATELESS)
+	                .and()
+	                .addFilterBefore(requestFilter, UsernamePasswordAuthenticationFilter.class)
+	                .build();
 	}
 	
 	@Bean
