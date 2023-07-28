@@ -1,0 +1,9 @@
+package com.azbank.repositories;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.azbank.models.User;
+
+public interface UserRepository extends JpaRepository<User, Long>{
+
+}

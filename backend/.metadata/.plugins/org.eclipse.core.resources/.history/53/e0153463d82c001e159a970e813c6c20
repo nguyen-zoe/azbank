@@ -1,0 +1,5 @@
+package com.azbank.services;
+
+public class AuthServiceImpl {
+
+}

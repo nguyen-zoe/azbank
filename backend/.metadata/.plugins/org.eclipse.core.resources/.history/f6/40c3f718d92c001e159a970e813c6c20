@@ -1,0 +1,13 @@
+package com.azbank.controllers;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.azbank.services.AuthService;
+
+@RestController
+public class SignupUserController {
+
+	@Autowired
+	private AuthService authService;
+}

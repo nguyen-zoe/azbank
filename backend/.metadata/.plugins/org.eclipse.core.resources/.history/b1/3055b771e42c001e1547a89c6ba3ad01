@@ -1,0 +1,5 @@
+package com.azbank.dtos;
+
+public class AuthenticationResponse {
+
+}

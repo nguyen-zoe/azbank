@@ -1,0 +1,12 @@
+package com.azbank.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.azbank.repositories.UserRepository;
+
+public class AuthServiceImpl implements AuthService{
+
+	
+	@Autowired
+	private UserRepository userRepository;
+}

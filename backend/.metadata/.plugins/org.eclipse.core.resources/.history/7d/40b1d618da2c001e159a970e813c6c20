@@ -1,0 +1,6 @@
+package com.azbank.services;
+
+public interface AuthService {
+
+	 UserDTO createUser(SignupDTO signupDTO);
+}
