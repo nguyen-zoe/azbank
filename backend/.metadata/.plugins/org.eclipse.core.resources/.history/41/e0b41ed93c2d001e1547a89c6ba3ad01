@@ -1,0 +1,12 @@
+#data source properties
+spring.datasource.url=jdbc:mysql://localhost:3306/db
+#you can edit MySQL username here
+spring.datasource.username=root
+#enter MySQL password here
+spring.datasource.password=Keith13486
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+
+app.client.url=http://localhost:4200/*

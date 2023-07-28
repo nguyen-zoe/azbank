@@ -20,7 +20,7 @@ public class UserDetailsServiceImpl implements UserDetailsService{
 	@Override
 	public UserDetails loadUserByUsername(String email) throws UsernameNotFoundException {
 		
-		User user = userRepository.findFirstByEmail(email); //get model user by email
+		User user = userRepository.findFirstByEmail(email); ////Write Logic to get the user from the DB
 		
 		
 		if(user == null) {

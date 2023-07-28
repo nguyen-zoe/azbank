@@ -577,3 +577,148 @@
 2023-07-28 10:45:09,624 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
 2023-07-28 10:45:09,658 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
 2023-07-28 10:45:09,664 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 12:06:54,644 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:06:54,999 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:06:55,002 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 12:07:39,471 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:07:39,479 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:07:39,484 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 12:08:03,482 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:08:03,708 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:08:03,711 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 12:09:09,570 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:09:09,578 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:09:09,581 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 12:19:21,719 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:19:21,979 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:19:21,983 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 12:22:40,630 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:22:41,466 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:22:41,475 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 12:23:17,644 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:23:17,667 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:23:17,672 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 12:23:38,646 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:23:38,654 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:23:38,657 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 12:24:23,671 [Worker-131: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:24:23,883 [Worker-131: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:24:23,887 [Worker-131: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 12:25:05,175 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:25:05,180 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:25:05,190 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 12:39:19,563 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:39:19,696 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:39:19,704 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 12:43:59,810 [Worker-128: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring-jwt:spring-jwt:0.0.1-SNAPSHOT @ /Users/dnguyen/Downloads/Spring_Secuirty-Angular_Authentication-CodeElevate-main/Spring-Secuirty-Jwt-In-Spring-Boot-3/pom.xml.
+2023-07-28 12:44:01,499 [Worker-128: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jwt/src/main/java
+2023-07-28 12:44:01,500 [Worker-128: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt/src/main/resources
+2023-07-28 12:44:01,502 [Worker-128: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt/src/main/resources
+2023-07-28 12:44:01,504 [Worker-128: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jwt/src/test/java
+2023-07-28 12:44:03,110 [Worker-128: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2023-07-28 12:44:04,594 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:44:04,607 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:44:04,609 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/Downloads/Spring_Secuirty-Angular_Authentication-CodeElevate-main/Spring-Secuirty-Jwt-In-Spring-Boot-3/src/test/resources
+2023-07-28 12:45:06,506 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:45:06,572 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:45:06,574 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/Downloads/Spring_Secuirty-Angular_Authentication-CodeElevate-main/Spring-Secuirty-Jwt-In-Spring-Boot-3/src/test/resources
+2023-07-28 12:45:31,563 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:45:31,575 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:45:31,577 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/Downloads/Spring_Secuirty-Angular_Authentication-CodeElevate-main/Spring-Secuirty-Jwt-In-Spring-Boot-3/src/test/resources
+2023-07-28 12:45:57,205 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:45:57,211 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:45:57,217 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/Downloads/Spring_Secuirty-Angular_Authentication-CodeElevate-main/Spring-Secuirty-Jwt-In-Spring-Boot-3/src/test/resources
+2023-07-28 12:46:43,667 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:46:43,678 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:46:43,682 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/Downloads/Spring_Secuirty-Angular_Authentication-CodeElevate-main/Spring-Secuirty-Jwt-In-Spring-Boot-3/src/test/resources
+2023-07-28 12:47:38,136 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:47:38,148 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:47:38,152 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/Downloads/Spring_Secuirty-Angular_Authentication-CodeElevate-main/Spring-Secuirty-Jwt-In-Spring-Boot-3/src/test/resources
+2023-07-28 12:47:44,523 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:47:44,528 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:47:44,530 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/Downloads/Spring_Secuirty-Angular_Authentication-CodeElevate-main/Spring-Secuirty-Jwt-In-Spring-Boot-3/src/test/resources
+2023-07-28 12:48:52,620 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-28 12:48:53,029 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring-jwt:spring-jwt:0.0.1-SNAPSHOT @ /Users/dnguyen/Downloads/Spring_Secuirty-Angular_Authentication-CodeElevate-main/Spring-Secuirty-Jwt-In-Spring-Boot-3/pom.xml.
+2023-07-28 12:48:53,372 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jwt/src/main/java
+2023-07-28 12:48:53,373 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt/src/main/resources
+2023-07-28 12:48:53,373 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt/src/main/resources
+2023-07-28 12:48:53,373 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jwt/src/test/java
+2023-07-28 12:48:53,558 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-07-28 12:48:53,873 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:48:53,874 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:48:53,876 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/Downloads/Spring_Secuirty-Angular_Authentication-CodeElevate-main/Spring-Secuirty-Jwt-In-Spring-Boot-3/src/test/resources
+2023-07-28 12:49:46,075 [Worker-131: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 12:49:46,136 [Worker-131: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 12:49:46,141 [Worker-131: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/Downloads/Spring_Secuirty-Angular_Authentication-CodeElevate-main/Spring-Secuirty-Jwt-In-Spring-Boot-3/src/test/resources
+2023-07-28 13:27:27,643 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:27:28,136 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:27:28,145 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:29:00,329 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:29:00,695 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:29:00,704 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:35:38,962 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:35:39,133 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:35:39,139 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:37:41,048 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:37:41,380 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:37:41,385 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:38:06,886 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:38:06,899 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:38:06,902 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:39:59,623 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:39:59,839 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:39:59,841 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:41:19,798 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:41:19,818 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:41:19,820 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:48:43,212 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:48:43,389 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:48:43,397 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:48:46,539 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:48:46,591 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:48:46,603 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/Downloads/Spring_Secuirty-Angular_Authentication-CodeElevate-main/Spring-Secuirty-Jwt-In-Spring-Boot-3/src/test/resources
+2023-07-28 13:49:04,235 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:49:04,427 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:49:04,432 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:49:13,553 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:49:13,899 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:49:13,902 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:51:57,945 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:51:57,954 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:51:57,957 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:53:03,665 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:53:03,701 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:53:03,703 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:54:36,270 [Worker-149: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.azbank:AZBankJwt:0.0.1-SNAPSHOT @ /Users/dnguyen/azbank/backend/AZBankJwt/pom.xml.
+2023-07-28 13:54:36,739 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:54:36,739 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:54:36,741 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:54:38,633 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:54:38,634 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:54:38,639 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:55:06,614 [Worker-149: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.azbank:AZBankJwt:0.0.1-SNAPSHOT @ /Users/dnguyen/azbank/backend/AZBankJwt/pom.xml.
+2023-07-28 13:55:06,955 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:55:06,955 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:55:06,960 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:55:27,433 [Worker-157: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-28 13:55:27,709 [Worker-157: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.azbank:AZBankJwt:0.0.1-SNAPSHOT @ /Users/dnguyen/azbank/backend/AZBankJwt/pom.xml.
+2023-07-28 13:55:27,990 [Worker-157: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AZBankJwt/src/main/java
+2023-07-28 13:55:27,990 [Worker-157: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AZBankJwt/src/main/resources
+2023-07-28 13:55:27,990 [Worker-157: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AZBankJwt/src/main/resources
+2023-07-28 13:55:27,991 [Worker-157: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AZBankJwt/src/test/java
+2023-07-28 13:55:28,391 [Worker-157: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-07-28 13:55:28,932 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:55:28,934 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:55:28,937 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:56:42,781 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:56:42,787 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:56:42,792 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:56:46,485 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:56:46,488 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:56:46,493 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:57:14,094 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:57:14,101 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:57:14,103 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources
+2023-07-28 13:58:30,817 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-07-28 13:58:30,822 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-07-28 13:58:30,824 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBankJwt/src/test/resources

@@ -1,0 +1,29 @@
+<div class="container ">
+
+
+  <div class="card bg-info-subtle">
+    <h1 class="text-center card-title">Register</h1>
+    <form class="card-body" [formGroup]="signupForm">
+      <div class="mb-3">
+        <label for="name" class="form-label fw-bold">Name</label>
+        <input type="text" id="name" class="form-control" placeholder="Enter your name" formControlName="name">
+      </div>
+      <div class="mb-3">
+        <label for="email" class="form-label fw-bold">Email</label>
+        <input type="email" id="email" class="form-control" placeholder="Enter your email" formControlName="email">
+      </div>
+      <div class="mb-3">
+        <label for="password" class="form-label fw-bold">Password</label>
+        <input type="password" id="password" class="form-control" placeholder="Enter your password"
+          formControlName="password">
+      </div>
+      <div class="mb-3">
+        <label for="confirmPassword" class="form-label fw-bold">Confirm Password</label>
+        <input type="password" id="confirmPassword" class="form-control" placeholder="Confirm your password"
+          formControlName="confirmPassword">
+      </div>
+
+      <button type="button" class="btn btn-primary" [disabled]="signupForm.invalid" (click)="signup()">Signup</button>
+    </form>
+  </div>
+</div>

@@ -18,25 +18,21 @@ public class AuthServiceImpl implements AuthService{
 
 	@Override
 	public UserDTO createUser(SignupRequest signupRequest) {
-		
-	
-		        User user = new User();
+		    User user = new User();
 		    user.setEmail(signupRequest.getEmail());
 		    user.setName(signupRequest.getName());
-		    user.setPhone(signupRequest.getPhone());
+		   
 		    user.setPassword(new BCryptPasswordEncoder().encode(signupRequest.getPassword()));
 		        
 		    //save created User
 		        User createdUser = userRepository.save(user);
-		        
-		        
 		        // this can use ModelMapper...
 		        //convert to DTO
 		        UserDTO userDTO = new UserDTO();
 		        userDTO.setId(createdUser.getId());
 		        userDTO.setEmail(createdUser.getEmail());
 		        userDTO.setName(createdUser.getName());
-		        userDTO.setPhone(createdUser.getPhone());
+		      
 		        
 		        return userDTO;
 		      

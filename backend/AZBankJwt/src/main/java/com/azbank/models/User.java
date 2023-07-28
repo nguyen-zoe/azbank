@@ -22,7 +22,6 @@ public class User {
 	private Long id;
 	private String name;
 	private String email;
-	private String phone;
 	private String password;
 	
 	public String getPassword() {
@@ -49,12 +48,7 @@ public class User {
 	public void setEmail(String email) {
 		this.email = email;
 	}
-	public String getPhone() {
-		return phone;
-	}
-	public void setPhone(String phone) {
-		this.phone = phone;
-	}
+
 	
 	
 }
