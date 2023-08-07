@@ -61,3 +61,19 @@
 2023-08-07 14:54:09,327 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
 2023-08-07 14:54:09,424 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
 2023-08-07 14:54:09,432 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBank-Customer/src/test/resources
+2023-08-07 15:22:26,646 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-08-07 15:22:26,771 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-07 15:22:26,781 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBank-Customer/src/test/resources
+2023-08-07 15:48:37,844 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-08-07 15:54:00,718 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-08-07 15:54:00,752 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-07 15:54:00,757 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBank-Account/src/test/resources
+2023-08-07 15:56:56,766 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-08-07 15:56:56,828 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-07 15:56:56,847 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBank-Account/src/test/resources
+2023-08-07 15:58:50,679 [Worker-3: Launching AZBank-Account - AzBankAccountApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-08-07 15:58:50,695 [Worker-3: Launching AZBank-Account - AzBankAccountApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-07 15:58:50,699 [Worker-3: Launching AZBank-Account - AzBankAccountApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBank-Account/src/test/resources
+2023-08-07 15:59:38,174 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-08-07 15:59:38,212 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-07 15:59:38,218 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/dnguyen/azbank/backend/AZBank-Account/src/test/resources

@@ -58,7 +58,7 @@ public class AccountController {
 		return ResponseEntity.ok(service.findAllAccountsByCustomer(id));
 	}
 	
-	@GetMapping("/with-transaction/{accountId")
+	@GetMapping("/with-transaction/{accountId}")
 	public ResponseEntity<FullAccountResponse> findAllTransactionsbyAccount(@PathVariable("accountId") Integer accountId){
 		return ResponseEntity.ok(service.findAccountWithTransactions(accountId));
 	}

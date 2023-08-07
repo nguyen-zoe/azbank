@@ -21,7 +21,7 @@ public class FullAccountResponse {
 	private String accountNo;
 	private String type;
 	private BigDecimal balance;
-	private Integer customerId;
-	
+//	private Integer customerId;//
+ 	
 	List<Transaction> transactions;
 }
