@@ -4,4 +4,21 @@
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/dnguyen/azbank/backend/discovery"/>
+			<item value="/Users/dnguyen/azbank/backend/gateway"/>
+			<item value="/Users/dnguyen/azbank/backend/config-server"/>
+			<item value="/Users/dnguyen/Downloads/Spring_Secuirty-Angular_Authentication-CodeElevate-main/Spring-Secuirty-Jwt-In-Spring-Boot-3"/>
+			<item value="/Users/dnguyen/Downloads/Spring_Secuirty-Angular_Authentication-CodeElevate-main"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 </section>

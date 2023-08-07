@@ -54,7 +54,7 @@ public class AuthenticationController {
 
 	
 	
-	@PostMapping("/authentication")
+	@PostMapping("/authenticate")
 	public AuthenticationResponse createAuthenticationToken(@RequestBody AuthenticationRequest authenticationRequest, HttpServletResponse response ) 
 			throws BadCredentialsException, DisabledException, UsernameNotFoundException, IOException{
 		try {
